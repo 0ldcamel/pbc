@@ -1,0 +1,9 @@
+# Site settings
+title: Góp nhặt cát đá
+author:
+  name: 0ld Camel
+  email: 0ldcamel502@gmail.com
+description: "Góp nhặt bài viết từ FaceBook Group."
+
+# Build settings
+remote_theme: jekyll/minima
