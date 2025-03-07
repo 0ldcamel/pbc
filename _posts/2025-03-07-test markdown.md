@@ -29,3 +29,13 @@ A numbered list is created using a number + `.`, like:
 2. two
 6. three
 2. four
+
+## Writing inline expressions
+
+Code: `This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$`
+
+Result: This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+
+Code: ```This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$```
+
+Result: This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
