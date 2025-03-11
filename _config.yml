@@ -8,5 +8,5 @@ description: "Góp nhặt bài viết từ FaceBook Group."
 # Build settings
 remote_theme: jekyll/minima
 
-social_links:
+social:
   github: ndbao@yahoo.com
