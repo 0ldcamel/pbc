@@ -3,10 +3,24 @@ title: Góp nhặt cát đá
 author:
   name: 0ld Camel
   email: 0ldcamel502@gmail.com
+  avatar : "/assets/images/camel.png"
+  bio    : "Old Camel wondering the Arabian desert"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://0ldcamel.github.io/cau/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/0ldcamel"
 description: "Góp nhặt bài viết từ FaceBook Group."
 
 # Build settings
 remote_theme: jekyll/minima
 
-social:
-  github: ndbao@yahoo.com
+github_username: 0ldcamel
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
